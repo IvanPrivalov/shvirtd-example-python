@@ -1,0 +1,12 @@
+.git
+.gitignore
+README.md
+.dockerignore
+Dockerfile
+Dockerfile.python
+.env
+__pycache__
+*.pyc
+.pytest_cache
+.coverage
+schema.pdf
